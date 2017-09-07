@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c4cd252f6e9c0ab40ada202392c16890
+timeCreated: 1446052425
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tapSound: {fileID: 8300000, guid: 4a1d8c8cd389b4f4a94f4eea79cde6e0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
